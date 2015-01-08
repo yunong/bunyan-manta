@@ -1,0 +1,29 @@
+{
+  "name": "bunyan-manta",
+  "version": "1.0.0",
+  "description": "Manta bunyan plugin",
+  "main": "index.js",
+  "dependencies": {
+    "bunyan": "1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yunong/bunyan-manta.git"
+  },
+  "keywords": [
+    "bunyan",
+    "logging",
+    "json",
+    "manta"
+  ],
+  "author": "Yunong Xiao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yunong/bunyan-manta/issues"
+  },
+  "homepage": "https://github.com/yunong/bunyan-manta"
+}
